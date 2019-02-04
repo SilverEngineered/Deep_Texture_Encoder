@@ -1,4 +1,4 @@
-# Deep_Texture_Encoder# Texture Encoder
+# Texture Encoder
 
 ## Purpose:
 
